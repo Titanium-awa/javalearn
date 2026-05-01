@@ -12,6 +12,8 @@ public class Demo0 {
         System.out.println(0.1 + 0.2);
         System.out.println(0.1f + 0.2f);
 
+        // 测试是否可以正常使用中文
+
         /*
         System.out.println("awa" == "awa");
         System.out.println("awa".equals("awa"));

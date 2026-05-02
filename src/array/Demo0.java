@@ -9,5 +9,6 @@ public class Demo0 {
         System.out.println(Arrays.toString(arr));
         System.out.println(Arrays.toString(arr2));
         System.out.println(Arrays.equals(arr, arr2));
+        System.out.println(arr.length == arr2.length);
     }
 }
